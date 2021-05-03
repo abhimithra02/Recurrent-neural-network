@@ -1,4 +1,4 @@
-# Recurrent-neural-network
+# Sentiment Analysis on Movie Review Using Deep Learning RNN Method
 Sentiment Analysis on Movie Review Using Deep Learning RNN Method
 
 
